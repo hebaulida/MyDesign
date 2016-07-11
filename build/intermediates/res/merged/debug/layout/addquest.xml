@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#ffffff"
+        >
+      <Button
+	      android:id="@+id/back"
+	      android:layout_width="wrap_content"
+	      android:layout_height="wrap_content"
+	      android:layout_alignParentLeft="true"
+	      android:text="返回"
+	      android:layout_centerVertical="true"
+	      android:background="#ffffff"
+	      />
+	  <TextView
+	      android:id="@+id/title"
+	      android:layout_width="wrap_content"
+	      android:layout_height="wrap_content"
+	      android:layout_centerInParent="true"
+	      android:textSize="24sp"
+	      android:text="编辑问题"
+	      />
+	  <Button
+	      android:id="@+id/save"
+	      android:layout_width="wrap_content"
+	      android:layout_height="wrap_content"
+	      android:layout_alignParentRight="true"
+	      android:text="发布"
+	      android:layout_centerVertical="true"
+	      android:background="#ffffff"
+	      />
+	  <TextView 
+	      android:layout_alignParentBottom ="true"
+	      android:layout_width="match_parent"
+	      android:layout_height="0.5dp"
+	      android:background="#3f000000"
+	      />
+    </RelativeLayout>
+    <RelativeLayout 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#eeeeee"
+        android:layout_weight="1"
+        >
+		<EditText
+			android:id="@+id/quest_title"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:background="#ffffff"
+			android:layout_marginTop="15dp"
+			android:padding="10dp"
+			android:maxLines="2"
+			android:hint="标题"
+			/>
+		<EditText
+
+			android:id="@+id/quest_view"
+			android:layout_width="match_parent"
+			android:layout_height="200dp"
+			android:layout_below="@+id/quest_title"
+			android:background="#ffffff"
+			android:padding="15dp"
+		    android:layout_marginTop="15dp"
+		    android:maxLines="5"
+		    android:gravity="top"
+			android:hint="描述"
+		    />
+
+        
+    </RelativeLayout>
+</LinearLayout>
