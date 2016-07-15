@@ -4,12 +4,12 @@
         "source": "D:\\AndroidStudioProjects\\IMtest\\mydesign\\src\\main\\res\\layout\\myusername.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\IMtest\\mydesign\\build\\intermediates\\res\\merged\\debug\\layout\\myinfo.xml",
-        "source": "D:\\AndroidStudioProjects\\IMtest\\mydesign\\src\\main\\res\\layout\\myinfo.xml"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\IMtest\\mydesign\\build\\intermediates\\res\\merged\\debug\\layout\\addquest.xml",
         "source": "D:\\AndroidStudioProjects\\IMtest\\mydesign\\src\\main\\res\\layout\\addquest.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IMtest\\mydesign\\build\\intermediates\\res\\merged\\debug\\layout\\myinfo.xml",
+        "source": "D:\\AndroidStudioProjects\\IMtest\\mydesign\\src\\main\\res\\layout\\myinfo.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\IMtest\\mydesign\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
@@ -64,16 +64,16 @@
         "source": "D:\\AndroidStudioProjects\\IMtest\\mydesign\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\IMtest\\mydesign\\build\\intermediates\\res\\merged\\debug\\layout\\tab.xml",
-        "source": "D:\\AndroidStudioProjects\\IMtest\\mydesign\\src\\main\\res\\layout\\tab.xml"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\IMtest\\mydesign\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
         "source": "D:\\AndroidStudioProjects\\IMtest\\mydesign\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\IMtest\\mydesign\\build\\intermediates\\res\\merged\\debug\\layout\\myclass.xml",
         "source": "D:\\AndroidStudioProjects\\IMtest\\mydesign\\src\\main\\res\\layout\\myclass.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IMtest\\mydesign\\build\\intermediates\\res\\merged\\debug\\layout\\tab.xml",
+        "source": "D:\\AndroidStudioProjects\\IMtest\\mydesign\\src\\main\\res\\layout\\tab.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\IMtest\\mydesign\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
